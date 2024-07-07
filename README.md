@@ -43,5 +43,9 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22521184      | Nguyễn Đình Quân        |[nguyenquan132](https://github.com/nguyenquan132)    |22521184@gm.uit.edu.vn   |
+| 2      | 22521031      | Trần Vũ Nhật            |[vunhat168](https://github.com/vunhat168)            |22521031@gm.uit.edu.vn   |
+| 3      | 22520197      | Võ Nguyên Đăng          |[dangvonguyen1](https://github.com/dangvonguyen1)    |22520197@gm.uit.edu.vn   |
+| 4      | 22520658      | Văn Quốc Khánh          |[VQKhanhCoder](https://github.com/VQKhanhCoder)      |22520658@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
+
