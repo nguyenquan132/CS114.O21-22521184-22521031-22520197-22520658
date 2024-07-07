@@ -48,4 +48,4 @@
 | 4      | 22520658      | Văn Quốc Khánh          |[VQKhanhCoder](https://github.com/VQKhanhCoder)      |22520658@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
-
+* **Tên đồ án**: MOTOCYCLE CLASSIFICATION
