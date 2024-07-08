@@ -61,3 +61,5 @@
 * **Ứng dụng Clustering để phát hiện ảnh trùng**
 * **Huấn luyện Model**
 * **Đánh giá model**
+## Một số hình ảnh về các loại xe
+![All Text](![22521184 Honda 1](https://github.com/nguyenquan132/CS114.O21-22521184-22521031-22520197-22520658/assets/128344377/3cb04d22-aa27-4c0d-a3f2-5a404d4950ec)
