@@ -48,4 +48,26 @@
 | 4      | 22520658      | Văn Quốc Khánh          |[VQKhanhCoder](https://github.com/VQKhanhCoder)      |22520658@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
-* **Tên đồ án**: MOTOCYCLE CLASSIFICATION
+* **Tên đồ án**: **MOTOCYCLE CLASSIFICATION**
+* Tổng số lượng ảnh đóng góp: 522
+* Phương pháp rút trích đặc trưng sử dụng: MobileNetV2
+* Thuật toán học sử dụng: Adam
+* Framework, thư viện sử dụng: Tensorflow, Keras
+* Các hiệu xe gồm: Honda, Yamaha, Suzuki, VinFast, Others
+## Các bước thực hiện:
+* **Thống kê dữ liệu**
+* **Tạo các tập dữ liệu train và test**
+* **Hiển thị danh sách các ảnh của tập dữ liệu**
+* **Ứng dụng Clustering để phát hiện ảnh trùng**
+* **Huấn luyện Model**
+* **Đánh giá model**
+## Một số hình ảnh về các loại xe
+![22521184 Honda 1](https://github.com/nguyenquan132/CS114.O21-22521184-22521031-22520197-22520658/assets/128344377/ec338eac-34e5-41eb-9677-047a0f84972a)
+![22521031 Others 33](https://github.com/nguyenquan132/CS114.O21-22521184-22521031-22520197-22520658/assets/128344377/1c8c8a2c-90a5-446b-9287-8c333439ad0e)
+![22520658 Suzuki 9](https://github.com/nguyenquan132/CS114.O21-22521184-22521031-22520197-22520658/assets/128344377/24747de1-c59d-4706-abed-e40e13f302b4)
+![22521184 Vinfast 1](https://github.com/nguyenquan132/CS114.O21-22521184-22521031-22520197-22520658/assets/128344377/e9157928-ac20-41b1-bb0a-1e46e29521d3)
+![22521184 Yamaha 6](https://github.com/nguyenquan132/CS114.O21-22521184-22521031-22520197-22520658/assets/128344377/32d9af20-0dca-4b61-8cac-8bb2bdb1b4a7)
+
+
+
+
