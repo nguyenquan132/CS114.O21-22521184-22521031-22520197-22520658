@@ -49,3 +49,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 * **Tên đồ án**: MOTOCYCLE CLASSIFICATION
+# Tổng số lượng ảnh đóng góp: 522
