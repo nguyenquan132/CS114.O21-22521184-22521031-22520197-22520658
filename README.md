@@ -54,5 +54,10 @@
 * Thuật toán học sử dụng: Adam
 * Framework, thư viện sử dụng: Tensorflow, Keras
 * Các hiệu xe gồm: Honda, Yamaha, Suzuki, VinFast, Others
-* Các bước thực hiện
- ** Thống kê dữ liệu
+## Các bước thực hiện:
+* **Thống kê dữ liệu**
+* **Tạo các tập dữ liệu train và test**
+* **Hiển thị danh sách các ảnh của tập dữ liệu**
+* **Ứng dụng Clustering để phát hiện ảnh trùng**
+* **Huấn luyện Model**
+* **Đánh giá model**
