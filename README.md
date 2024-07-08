@@ -48,5 +48,11 @@
 | 4      | 22520658      | Văn Quốc Khánh          |[VQKhanhCoder](https://github.com/VQKhanhCoder)      |22520658@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
-* **Tên đồ án**: MOTOCYCLE CLASSIFICATION
-# Tổng số lượng ảnh đóng góp: 522
+* **Tên đồ án**: **MOTOCYCLE CLASSIFICATION**
+* Tổng số lượng ảnh đóng góp: 522
+* Phương pháp rút trích đặc trưng sử dụng: MobileNetV2
+* Thuật toán học sử dụng: Adam
+* Framework, thư viện sử dụng: Tensorflow, Keras
+* Các hiệu xe gồm: Honda, Yamaha, Suzuki, VinFast, Others
+* Các bước thực hiện
+ ** Thống kê dữ liệu
